@@ -20,7 +20,7 @@
 
 .about_possition {
 
-        font-size: 30px;
+        font-size: 18px;
     display: block;
     margin-bottom: 50px;
 }
@@ -194,8 +194,6 @@
             width: 370px;
 }
 
-.photo {}
-
 .contacts {
         margin-bottom: 50px;
 }
@@ -227,7 +225,7 @@
 .contacl_link {
         font-style: normal;
             font-weight: normal;
-            font-size: 14px;
+            font-size: 16px;
             line-height: 26px;
             color: #0158f8;
 }
@@ -246,10 +244,11 @@
         color: #0158f8;
 }
 
-.tech_skils_text, .soft_skils_text {
+.tech_skils_text, 
+.soft_skils_text {
         font-style: normal;
             font-weight: normal;
-            font-size: 14px;
+            font-size: 16px;
             line-height: 26px;
             color: #FFFFFF;
 }
