@@ -1,0 +1,260 @@
+.main {
+        display: flex;
+            flex-direction: row-reverse;
+            width: 1200px;
+            margin: 0 auto;
+            margin-top: 30px;
+}
+
+.main_content {
+    display: block;
+        background-color: #FFFFFF;
+        box-shadow: 6px 6px 20px rgb(0 0 0 / 10%);
+        padding: 105px 90px;
+}
+
+.about_user {
+    display: block;
+    margin-bottom: 40px;
+}
+
+.about_possition {
+
+        font-size: 30px;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.about_name {
+        font-style: normal;
+            font-weight: bold;
+            font-size: 45px;
+            line-height: 55px;
+            color: #0158f8;
+            margin-bottom: 25px;
+}
+
+.about_name_color {
+        color: #0158f8;
+}
+
+.about_discription {
+        font-style: normal;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 26px;
+            color: #595959;
+            width: 400px;
+}
+
+.projects {
+    margin-bottom: 50px;
+}
+
+.title {
+        font-style: normal;
+            font-weight: bold;
+            font-size: 22px;
+            line-height: 26px;
+            color: #000000;
+            margin-bottom: 10px;
+}
+
+.projects_list {
+    padding: 0;
+        margin-left: 25px;
+}
+
+.project_item {
+        font-style: normal;
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 26px;
+            color: #0158f8;
+}
+
+.project {
+    font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 26px;
+        color: #595959;
+}
+
+.project_link {
+    color: #595959;
+        margin-left: 10px;
+}
+
+.project_point {}
+
+.project_bracet {
+        font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 26px;
+            color: #0158f8;
+}
+
+.work {
+    display: block;
+}
+
+.work_position {
+        font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 20px;
+            color: #000000;
+            margin-bottom: 20px;
+}
+
+.organisation {
+        font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 20px;
+            color: rgb(171, 16, 16);
+}
+
+.work_dates {
+        font-family: Montserrat;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 10px;
+            color: #A8A8A8;
+            margin-bottom: 10px;
+}
+
+.work_dates_slash {
+        font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 15px;
+            color: #0158f8;
+}
+
+.work_list {
+        padding: 0;
+            margin-left: 25px;
+}
+
+.work_list_point {
+    color: #0158f8;
+}
+
+.work_list_item {
+        font-style: normal;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 26px;
+            color: #595959;
+}
+
+.education {
+    margin-top: 50px;
+}
+
+.education_list {
+        padding: 0;
+            margin-left: 25px;
+            color: #0158f8;
+}
+
+.education_profesion_point {
+
+}
+
+.education_organisation {
+    font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 20px;
+        color: rgb(171, 16, 16);
+        margin-bottom: 5px;
+        margin-top: 5px;
+}
+
+.education_profesion {
+    font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 17px;
+        color: #000000;
+}
+
+.certificate {
+        color: #0158f8;
+}
+
+.sidebar {
+        background: linear-gradient(#3f0b0b 20%, rgb(171, 16, 16));
+            padding-top: 40px;
+            width: 370px;
+}
+
+.photo {}
+
+.contacts {
+        margin-bottom: 50px;
+}
+
+.contacts,
+.tech_skills,
+.soft_skills {
+    margin-left: 40px;
+}
+
+.sidebar_title {
+        color: #FFFFFF;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 22px;
+            line-height: 27px;
+            margin-bottom: 10px;
+}
+
+.contact_type {
+        Font-style: normal;
+            font-weight: bold;
+            Font-size: 14px;
+            Line-height: 26px;
+            color: #FFFFFF;
+            margin-right: 10px;
+}
+
+.contacl_link {
+        font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 26px;
+            color: #0158f8;
+}
+
+.tech_skills {
+        margin-bottom: 45px;
+}
+
+.tech_skills_list, .soft_skills_list {
+        color: #FFFFFF;
+            padding: 0%;
+            margin-left: 17px;
+}
+
+.tech_skils_item, .soft_skils_item {
+        color: #0158f8;
+}
+
+.tech_skils_text, .soft_skils_text {
+        font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 26px;
+            color: #FFFFFF;
+}
+
+.soft_skills {
+        margin-bottom: 340px;
+}
+
