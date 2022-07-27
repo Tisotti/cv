@@ -195,7 +195,8 @@
 
 .contacts,
 .tech_skills,
-.soft_skills {
+.soft_skills,
+.language {
     margin-left: 40px;
 }
 
@@ -229,18 +230,23 @@
         margin-bottom: 45px;
 }
 
-.tech_skills_list, .soft_skills_list {
-        color: #FFFFFF;
-            padding: 0%;
-            margin-left: 17px;
+.soft_skils {
+    margin-bottom: 45px;
 }
 
-.tech_skils_item, .soft_skils_item {
+.tech_skills_list, .soft_skills_list, .language {
+        color: #FFFFFF;
+            padding: 0%;
+            /* margin-left: 17px; */
+}
+
+.tech_skils_item, .soft_skils_item, .language {
         color: #0158f8;
 }
 
 .tech_skils_text, 
-.soft_skils_text {
+.soft_skils_text,
+.language {
         font-style: normal;
             font-weight: normal;
             font-size: 16px;
@@ -248,7 +254,12 @@
             color: #FFFFFF;
 }
 
+
 .soft_skills {
-        margin-bottom: 340px;
+        margin-bottom: 45px;
+}
+
+.language {
+   
 }
 
